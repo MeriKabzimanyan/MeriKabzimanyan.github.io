@@ -1,0 +1,55 @@
+#profile{
+    font-family: 'Times New Roman', Times, serif; 
+    font-style: italic;
+}
+
+#education{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif; 
+    font-style: italic;
+}
+
+img {
+    height: 540;
+    width: 400; 
+    
+    }	
+    table {
+        width: 25%;
+        border-spacing: 1px; 
+       
+    }
+td, th {
+    border: 4px double black;
+    background: #fc3; 
+    padding: 10px; 
+}
+#skills{
+    font-family: 'Times New Roman', Times, serif; 
+    font-style: italic;
+    color: #3F92D2;  
+}   
+a{
+    color: white;
+    text-decoration: underline;
+}
+h1{
+    text-decoration: underline;
+}
+body{
+    background-color: #d7b3ff;}
+}
+#qwerty{
+    color: white;
+
+}
+#asdfg{
+    color: #3e0080;
+}
+#interests{
+    background-color:white; 
+}
+header{
+    background-color: #5600b3;
+    color: white;
+}
